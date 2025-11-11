@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [16.3.0](https://github.com/themadprofessor/topgrade/compare/v16.2.1...v16.3.0) - 2025-11-11
+
+### Added
+
+- *(chezmoi)* add `exclude_encrypted` config ([#1453](https://github.com/themadprofessor/topgrade/pull/1453))
+
 ## [16.2.1](https://github.com/topgrade-rs/topgrade/compare/v16.2.0...v16.2.1) - 2025-11-10
 
 ### Fixed
